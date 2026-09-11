@@ -215,17 +215,14 @@ Open the project notebook and run the cells in sequence.
 
 ## 🖼️ Screenshots / Demo
 
-Add actual project screenshots here when available:
 
-```md
-![EDA](images/eda.png)
+<img width="610" height="392" alt="Income and Orders" src="https://github.com/user-attachments/assets/3dd1be80-3db4-4fdb-82f3-b676e118d47c" />
 
-![Model Results](images/model-results.png)
-```
+----------------------------------------------
 
-> 📌 The paths above are placeholders and should only be used after adding the corresponding images.
+<img width="637" height="393" alt="Gender and Purchases" src="https://github.com/user-attachments/assets/4aee3273-43c5-4c70-93ab-653abb9c5f61" />
 
----
+
 
 
 
